@@ -1,0 +1,22 @@
+{
+  "name": "ankita_task-26",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "scripts": {
+  "dev": "vite",
+  "build": "vite",
+  "preview": "vite preview"
+},
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "vite": "^8.3.4"
+  }
+}
